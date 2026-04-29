@@ -25,6 +25,7 @@ import redditClone from "../assets/redditClone1.png";
 import reactNote from "../assets/reactNote-app.png";
 import urlshortner from "../assets/url-shortner.png";
 import ecommerce from "../assets/ecommerce.png";
+import mylinks from "../assets/mylinks.png";
 
 interface Skill {
   name: string;
@@ -127,7 +128,7 @@ export const Projects: Project[] = [
     name: "My Links",
     description:
       "An open-source application for efficiently storing, organizing, and managing personal links.",
-    img: twitterClone,
+    img: mylinks,
     githubLink: "https://github.com/salub-xd/mylinks",
     tools: ["Next.js", "PostgreSQL", "Prisma", "Redis"],
   },
