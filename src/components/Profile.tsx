@@ -51,7 +51,7 @@ const Profile: React.FC = () => {
     return (
         <div id="home" className="flex flex-col-reverse justify-between items-center lg:px-2 lg:flex-row pt-28 lg:pt-40 ">
             <div className="profile pb-0 py-16 lg:py-5">
-                <h1 className="text-3xl text-white text-center font-Ubuntu capitalize sm:text-left sm:text-5xl">hello i'm Salub</h1>
+                <h1 className="text-3xl text-white text-center font-Ubuntu capitalize sm:text-left sm:text-5xl">hello i'm Lalo</h1>
                 <p className="text-white px-0.5 text-center font-Roboto text-xl sm:text-left sm:text-3xl" aria-label="I'm a developer">
                     I'm a&nbsp;<span className="typewriter text-xl text-sky-600 sm:text-3xl"></span>
                 </p>
